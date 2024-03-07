@@ -8,7 +8,7 @@
 
 - 🧑🏻‍💻 FullStack Developer.
 
-- 🌱 Quick Learnier.
+- 🌱 Quick Learner.
 
 - 💡 Always ready to learn something new.
 
