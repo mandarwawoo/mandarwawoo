@@ -15,9 +15,7 @@
 Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, and lives programming. I'm the wizard of web development and an ultimate UI/UX ninja who can create eye-catching designs that will make you go WOW!, feel free to connect with me here:
 
 <p align="center">
-	<a href="www.linkedin.com/in/mandarwawoo
-
-">
+	<a href="www.linkedin.com/in/mandarwawoo">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 <!-- 	<a href="https://instagram.com/atharva_malode_?igshid=YmMyMTA2M2Y=">
