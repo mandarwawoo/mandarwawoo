@@ -16,7 +16,8 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 
 <p align="center">
 	<a href="www.linkedin.com/in/mandarwawoo">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
+		<img src="https://img.shields.io/badge/LinkedIn-12100E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 <!-- 	<a href="https://instagram.com/atharva_malode_?igshid=YmMyMTA2M2Y=">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -28,7 +29,9 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a> -->
         <a href="mailto:mandarwawoo18@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+		<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+			-->
+			<img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 	</a>
 </p>
 
@@ -40,12 +43,12 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### 🌐 Web Dev
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![DataWeave](https://img.shields.io/badge/DataWeave-00A2DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+
 
 ### 🧩 Libraries & Framework
 
@@ -55,6 +58,13 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ### Version Control
 
@@ -66,6 +76,8 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A2DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 
 ### 🌐 Deployment and Hosting
@@ -79,6 +91,9 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Anypoint Studio](https://img.shields.io/badge/Anypoint_Studio-00A2DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### 💻 Workspace
 
