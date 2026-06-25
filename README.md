@@ -16,7 +16,7 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 
 <p align="center">
 	<!-- <a href=""> -->
-	<a href="https://www.linkedin.com/in/mandarwawoo" target="_blank" rel="noreferrer">
+	<a href="https://www.linkedin.com/in/mandarwawoo" target=" " rel="noreferrer">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 		<!-- <img src="https://img.shields.io/badge/LinkedIn-12100E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> -->
 	</a>
@@ -29,7 +29,7 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 	<!-- <a href="https://prathmeshgokhe.me/">
 		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a> -->
-        <a href="mailto:mandarwawoo18@gmail.com" target="_blank" rel="noreferrer">
+        <a href="mailto:mandarwawoo18@gmail.com" target=" " rel="noreferrer">
 		 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
