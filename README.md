@@ -16,8 +16,8 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 
 <p align="center">
 	<a href="www.linkedin.com/in/mandarwawoo">
-		<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
-		<img src="https://img.shields.io/badge/LinkedIn-12100E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<!-- <img src="https://img.shields.io/badge/LinkedIn-12100E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> -->
 	</a>
 <!-- 	<a href="https://instagram.com/atharva_malode_?igshid=YmMyMTA2M2Y=">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -29,9 +29,7 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a> -->
         <a href="mailto:mandarwawoo18@gmail.com">
-		<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-			-->
-			<img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+		 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
 
