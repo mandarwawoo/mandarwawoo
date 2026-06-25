@@ -41,13 +41,11 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🌐 Web Designing
+### 🌐 Web Dev
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-<img src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" width="35" alt="shadcn"/>
-<img src="https://nextui.org/_next/image?url=%2Fnextui-banner.png&w=1920&q=100" width="60" alt="nextui"/>
 
 ### 🧩 Libraries & Framework
 
@@ -56,16 +54,18 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Version Control
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🛢 Backend
+### 🛢 Backend and integration
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A2DF?style=for-the-badge&logo=mulesoft&logoColor=white)
 
 
 ### 🌐 Deployment and Hosting
