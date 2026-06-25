@@ -4,7 +4,7 @@
 
 # Hey Folks!! Great to see you here! 👋
 
-- 📖 Pursuing my Bachelor's in Artificial Intelligence from [GH Raisoni College of Engineering Nagpur](https://ghrce.raisoni.net/).
+- 📖 An Artificial Intelligence Grad from [GH Raisoni College of Engineering Nagpur]
 
 - 🧑🏻‍💻 FullStack Developer.
 
@@ -12,7 +12,7 @@
 
 - 💡 Always ready to learn something new.
 
-Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, and lives programming. I'm the wizard of web development and an ultimate UI/UX ninja who can create eye-catching designs that will make you go WOW!, feel free to connect with me here:
+Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, and lives programming. I'm the wizard of web development, backend and integrations with WOW! data visuablizations feel free to connect with me here:
 
 <p align="center">
 	<a href="www.linkedin.com/in/mandarwawoo">
@@ -38,8 +38,6 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 
 ### 🚀 Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -47,7 +45,6 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 <img src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" width="35" alt="shadcn"/>
 <img src="https://nextui.org/_next/image?url=%2Fnextui-banner.png&w=1920&q=100" width="60" alt="nextui"/>
@@ -59,7 +56,6 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### Version Control
 
@@ -71,19 +67,17 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+
 ### 🌐 Deployment and Hosting
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### 💻 Workspace
