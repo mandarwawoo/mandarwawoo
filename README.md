@@ -8,14 +8,14 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=mandarwawoo&style=flat-square&color=blue" alt=""/>
   <h1>
-  Great to see you here! 👋
+  Great to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 
 
-# Hey Folks!! Great to see you here! 👋
+# Bout me!
 
 - 📖 An Artificial Intelligence Grad from [GH Raisoni College of Engineering Nagpur]
 
