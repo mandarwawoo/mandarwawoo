@@ -100,9 +100,9 @@ Hey there, folks! I'm Mandar Wawoo, a tech-savvy enthusiast who eats, breathes, 
 
 
 
-## 🔝 Most used languages
+<!-- <p>## 🔝 Most used languages</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img alt="languages" target=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarwawoo&layout=compact&theme=radical" />
 	
-</p>
+</p> -->
